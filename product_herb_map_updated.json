@@ -1,0 +1,54 @@
+[
+  {
+    "product_name": "Smudge Spray",
+    "url": "https://herbanherbalist.com/smudge-spray/",
+    "herbs": [
+      "sage",
+      "lavender",
+      "frankincense"
+    ],
+    "featured": true,
+    "spiritual_tags": [
+      "cleansing",
+      "protection"
+    ]
+  },
+  {
+    "product_name": "Spiritual Protection Ritual Kit",
+    "url": "https://herbanherbalist.com/protection-ritual-kit-basic/",
+    "herbs": [],
+    "featured": false,
+    "spiritual_tags": [
+      "protection"
+    ]
+  },
+  {
+    "product_name": "Cleansing Ritual Kit",
+    "url": "https://herbanherbalist.com/cleansing-ritual-kit/",
+    "herbs": [],
+    "featured": false,
+    "spiritual_tags": [
+      "cleansing"
+    ]
+  },
+  {
+    "product_name": "Prosperity Ritual Kit (Enhanced)",
+    "url": "https://herbanherbalist.com/prosperity-ritual-kit-enhanced/",
+    "herbs": [],
+    "featured": false,
+    "spiritual_tags": [
+      "prosperity",
+      "abundance"
+    ]
+  },
+  {
+    "product_name": "Attraction Ritual Kit",
+    "url": "https://herbanherbalist.com/attraction-ritual-kit/",
+    "herbs": [],
+    "featured": false,
+    "spiritual_tags": [
+      "love",
+      "attraction"
+    ]
+  }
+]
