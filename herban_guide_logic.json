@@ -1,0 +1,148 @@
+{
+  "Nervous System": {
+    "Lemon Balm": {
+      "action": "Nervine, Relaxant",
+      "needs": [
+        "Stress",
+        "Anxiety",
+        "Restlessness"
+      ],
+      "products": []
+    },
+    "Skullcap": {
+      "action": "Nervine, Sedative",
+      "needs": [
+        "Tension",
+        "Insomnia",
+        "Nervous Exhaustion"
+      ],
+      "products": []
+    },
+    "Valerian": {
+      "action": "Sedative, Muscle Relaxant",
+      "needs": [
+        "Sleep Issues",
+        "Tension",
+        "Pain"
+      ],
+      "products": []
+    }
+  },
+  "Digestive System": {
+    "Peppermint": {
+      "action": "Carminative, Antispasmodic",
+      "needs": [
+        "Gas",
+        "Bloating",
+        "Indigestion"
+      ],
+      "products": [
+        "Breathe Serene Organic Herbal Tea Blend",
+        "our Focus Herbal Tea Blend"
+      ]
+    },
+    "Ginger": {
+      "action": "Stimulant, Anti-nausea",
+      "needs": [
+        "Nausea",
+        "Circulation",
+        "Poor Digestion"
+      ],
+      "products": []
+    },
+    "Chamomile": {
+      "action": "Carminative, Anti-inflammatory",
+      "needs": [
+        "Indigestion",
+        "Bloating",
+        "Anxiety"
+      ],
+      "products": []
+    }
+  },
+  "Respiratory System": {
+    "Mullein": {
+      "action": "Expectorant, Demulcent",
+      "needs": [
+        "Cough",
+        "Congestion",
+        "Bronchial Irritation"
+      ],
+      "products": []
+    },
+    "Thyme": {
+      "action": "Antimicrobial, Expectorant",
+      "needs": [
+        "Bronchitis",
+        "Coughs",
+        "Respiratory Infections"
+      ],
+      "products": []
+    },
+    "Elecampane": {
+      "action": "Expectorant, Antibacterial",
+      "needs": [
+        "Deep Coughs",
+        "Lung Support"
+      ],
+      "products": []
+    }
+  },
+  "Immune System": {
+    "Elderberry": {
+      "action": "Antiviral, Immune Stimulant",
+      "needs": [
+        "Colds",
+        "Flu",
+        "Immune Boosting"
+      ],
+      "products": []
+    },
+    "Echinacea": {
+      "action": "Immune Stimulant, Anti-inflammatory",
+      "needs": [
+        "Infection",
+        "Prevention",
+        "Immune Tonic"
+      ],
+      "products": []
+    },
+    "Astragalus": {
+      "action": "Adaptogen, Immune Tonic",
+      "needs": [
+        "Chronic Illness",
+        "Recovery",
+        "Immune Support"
+      ],
+      "products": []
+    }
+  },
+  "Circulatory System": {
+    "Hawthorn": {
+      "action": "Cardiotonic, Circulatory Tonic",
+      "needs": [
+        "Heart Health",
+        "Blood Pressure",
+        "Circulation"
+      ],
+      "products": []
+    },
+    "Cayenne": {
+      "action": "Stimulant, Vasodilator",
+      "needs": [
+        "Poor Circulation",
+        "Cold Extremities"
+      ],
+      "products": []
+    },
+    "Garlic": {
+      "action": "Antimicrobial, Circulatory Tonic",
+      "needs": [
+        "Blood Pressure",
+        "Cholesterol",
+        "Heart Support"
+      ],
+      "products": []
+    }
+  }
+}
